@@ -1,16 +1,17 @@
 # Chapter 1 - A Snake Swollowed My Code Book 
-## Lost My Chromebook
-Dan and Dora rush up stairs to the front of the 149 bus.  It was the first time they had been allowed to travel to their Russian lesson in Bethnal Green unsupervised by a grown-up.
 
-The only other person on the top deck was an old man with the look of a retired teacher sitting near back staring out the window.  He looked uncomfertable while he read papers from a tatty document folder.  Dora ran downstairs with her brother Dan's mobile phone.  He followed in persuit.  When they arrived back upstairs Dan has got his phone back but he is sure that his bag has moved from where he left it.  It is now on the seat in front of the stranger.
+## Strange man
+Dan and Dora rush up stairs to the front of the 149 bus.  It was the first time they had been allowed to travel to their after school Russian lesson in Bethnal Green unsupervised by a grown-up.
 
-## Spy on the bus
-Just then the bus canme to a stop with a frightening bang.  It had hit a police car. The sranger got out and ran towards the stairs leaving a his folder behind.  He shouted, "I am done for.  That folder is my greatest treasure.  Solve its mystery and not only wll you save the UK from a terrible war but you will be rich beyond your dreams.  Use the three snakes to start-off."
+The only other person on the top deck was a middle-aged man with the look of a retired teacher sitting near back staring out the window.  He looked uncomfortable while he read typed pages from a tatty pink document folder.  Dora ran downstairs with her brother Dan's mobile phone.  He followed anglily in persuit.  When they arrived back upstairs Dan had got his phone back but he was sure that his bag had moved from where he left it.  It was now on the seat in front of the stranger.
 
-Very strange thought the kids.
+## Stop Police
+Just then the bus came to a stop with a frightening bang.  It had hit a police car. The stranger got up and ran towards the stairs leaving his folder behind.  He spoke qucikly and quietly as if his life depended on it, "I am done for.  That folder is my greatest treasure.  Solve its mystery and not only wll you save the UK from a terrible war but you will be rich beyond your dreams.  Use the three snakes to start-off."
+
+No way thought the kids, this can't be happening.
 
 ## Strange message
-Later at home after their parents had gone to bed the kids read through the papers trying to make sense of it.  This is what the first message said,
+Later at home after their parents had gone to bed the kids read through the papers trying to make sense of them.  This is what the first message said,
 
 "Goto Ubuntu
 >>>python3 
@@ -18,10 +19,11 @@ Later at home after their parents had gone to bed the kids read through the pape
 >>>exit
 *This leaves python*
 
-You will need this later
+You will need this later.
+
 I will know you are ready to go once you send me a great pypet (animal created with python).
 see https://www.thinkful.com/learn/intro-to-python-tutorial/
-Tweet pypet to @FreeHackney
+Tweet your pypet to @FreeHackney
 
 Good luck who ever finds this.  The safety of the UK, in fact the world is in your hands.
 "
