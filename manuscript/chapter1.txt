@@ -22,7 +22,7 @@ Later at home after their parents had gone to bed the kids read through the pape
 You will need this later.
 
 I will know you are ready to go once you send me a great pypet (animal created with python).
-see [https://www.thinkful.com/learn/intro-to-python-tutorial/]
+see [https://www.thinkful.com/learn/intro-to-python-tutorial/](https://www.thinkful.com/learn/intro-to-python-tutorial/)
 Tweet your pypet to @FreeHackney
 
 Good luck who ever finds this.  The safety of the UK, in fact the world is in your hands.
