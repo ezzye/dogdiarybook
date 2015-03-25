@@ -12,6 +12,13 @@ Very strange thought the kids.
 ## Strange message
 Later at home after their parents had gone to bed the kids read through the papers trying to make sense of it.  This is what the first message said,
 
-""
+"Goto Ubuntu
+>>>python3 
+*This takes you to python*
+>>>exit
+*This leaves python*
+>>>
+
+"
 
 ## The Answer
