@@ -17,8 +17,14 @@ Later at home after their parents had gone to bed the kids read through the pape
 *This takes you to python*
 >>>exit
 *This leaves python*
->>>
 
+You will need this later
+I will know you are ready to go once you send me a great pypet (animal created with python).
+see https://www.thinkful.com/learn/intro-to-python-tutorial/
+Tweet pypet to @FreeHackney
+
+Good luck who ever finds this.  The safety of the UK, in fact the world is in your hands.
 "
 
 ## The Answer
+This is how the mission started.  This was how Dora and Dan became secret agents.
