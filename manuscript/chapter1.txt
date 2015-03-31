@@ -3,10 +3,12 @@
 ## Strange man
 Dan and Dora rush up stairs to the front of the 149 bus.  It was the first time they had been allowed to travel to their after school Russian lesson in Bethnal Green unsupervised by a grown-up.
 
-The only other person on the top deck was a middle-aged man with the look of a retired teacher sitting near back staring out the window.  He looked uncomfortable while he read typed pages from a tatty pink document folder.  Dora ran downstairs with her brother Dan's mobile phone.  He followed anglily in persuit.  When they arrived back upstairs Dan had got his phone back but he was sure that his bag had moved from where he left it.  It was now on the seat in front of the stranger.
+The only other person on the top deck was a middle-aged man with the look of a retired teacher sitting near back staring out of the window.  He looked uncomfortable while he read typed pages from a tatty pink document folder.  Dora ran downstairs with her brother Dan's mobile phone.  He followed anglily in persuit.  When they arrived back upstairs Dan had got his phone back but he was sure that his bag had moved from where he left it.  It was now on the seat in front of the stranger.
 
 ## Stop Police
-Just then the bus came to a stop with a frightening bang.  It had hit a police car. The stranger got up and ran towards the stairs leaving his folder behind.  He spoke qucikly and quietly as if his life depended on it, "I am done for.  That folder is my greatest treasure.  Solve its mystery and not only wll you save the UK from a terrible war but you will be rich beyond your dreams.  Use the three snakes to start-off."
+Just then the bus came to a stop with a frightening bang.  It had hit a police car. The stranger got up and ran towards the stairs leaving his folder behind.  As he passed them, he spoke qucikly and quietly as if his life depended on it, 
+
+"I am done for.  That folder is my greatest treasure.  Solve its mystery and not only wll you save the UK from a terrible war but you will be rich beyond your dreams.  Use the three snakes to start-off."
 
 No way thought the kids, this can't be happening.
 
@@ -21,7 +23,18 @@ Later at home after their parents had gone to bed the kids read through the pape
 
 You will need this later.
 
-I will know you are ready to go once you send me a great pypet (animal created with python).
+To break code you need to create a game using python based on a "pypet".
+
+It must have some great features that you design yourself! Here are some ideas:
+*Keep track of a health points variable
+*Create a boolean variable for asleep
+*Create a play() function
+*Create a list of phrases your python can say at random
+*Get input from the user with raw_input()
+
+I can use this to trick the spy master into believing that I am Ivan Stroganoff (I'll tell you more about him later).  Email link to github website with code to SpyMaster@itsHackney.com .
+
+You can get more details here:
 see [https://www.thinkful.com/learn/intro-to-python-tutorial/](https://www.thinkful.com/learn/intro-to-python-tutorial/)
 Tweet your pypet to @FreeHackney
 
@@ -29,4 +42,4 @@ Good luck who ever finds this.  The safety of the UK, in fact the world is in yo
 "
 
 ## The Answer
-This is how the mission started.  This was how Dora and Dan became secret agents.
+A clue, dads often understand Github.
